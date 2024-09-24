@@ -35,7 +35,7 @@ O projeto depende de uma API Flask que realiza a predição de câncer de pulmã
 
 1. **Clone o repositório da API**:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/miguelvneto/MVP_Sistemas_Inteligentes_Front-end.git>
    cd lung-cancer-prediction-api
    ```
 
